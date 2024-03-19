@@ -38,6 +38,8 @@ Here's an example configuration:
   "javaVersion": "11",
   "dependencies": "web,data-jpa,h2"
 }
+```
+
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines first.
 
